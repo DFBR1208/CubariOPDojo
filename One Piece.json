@@ -30,28 +30,11 @@
       }
     },
     "1113": {
-      "title": "Beco sem Saída",
+      "title": "Impasse",
       "volume": "",
       "last_updated": "1714148733",
       "groups": {
-        "Oldman Crew": [
-          "https://cdn.discordapp.com/attachments/866869370629783572/1233462070863990956/One_Piece_-_Capitulo_1113_PT-BR_Oldman_Crew-1.jpg?ex=662d2e92&is=662bdd12&hm=c737cb5d2db4e4ed9c3131e2b989c345f7ce4c5caafcf10b021f2669564af7b2&",
-          "https://pbs.twimg.com/media/GMGHG07WIAAi97I?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHG03WcAATjY3?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHG1SWMAAJTek?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHG13W8AAoh5t?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHJxoW0AEX_9r?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHJygW0AAjNSa?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHKusX0AAiPnj?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHP7jXEAA9FNg?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHJ0fXEAATvQ0?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHP8XWAAApIs_?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHP93W0AAdINs?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHP-kWAAAMtPD?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHZ2rXgAAg_I5?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHZ4iWAAA3TQp?format=jpg&name=4096x4096",
-          "https://pbs.twimg.com/media/GMGHZ5eXkAASdDg?format=jpg&name=4096x4096"
-        ]
+        "Mangá Dōjō": "/proxy/api/imgur/chapter/OnZIPGs"
       }
     }
   }
